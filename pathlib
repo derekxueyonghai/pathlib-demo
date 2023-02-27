@@ -1,0 +1,6 @@
+[Using Python’s Pathlib Module](https://pbpython.com/pathlib-intro.html)
+
+
+`pathlib` `stat().st_ctime`  
+stat.ST_CTIME  
+The “ctime” as reported by the operating system. On some systems (like Unix) is the time of the last metadata change, and, on others (like Windows), is the creation time (see platform documentation for details)
